@@ -5,7 +5,7 @@ I'm a **Computer Science student** and an aspiring **Data Scientist** with a pas
 
 ## 🧠 What I Do
 
-I tinker with **Python**, **C++**, and **SQL** like they’re LEGO bricks.  
+I tinker with **Python** and **SQL** like they’re LEGO bricks.  
 I enjoy breaking down complex problems, exploring how systems think, and asking:
 
 > *"What if we automated this... with style?"* 😏
